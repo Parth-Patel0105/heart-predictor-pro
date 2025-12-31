@@ -97,3 +97,8 @@ venv.bak/
 dmypy.json 
 # Pyre type checker 
 .pyre/ 
+__pycache__/ 
+*.pkl 
+__pycache__/ 
+*.pyc 
+*.pyo 
