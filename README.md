@@ -118,7 +118,6 @@ Citation: Dua, D. and Graff, C. (2019). UCI Machine Learning Repository. Irvine,
 👨‍💻 Author
 Parth Patel
 GitHub: @Parth-Patel0105
-LinkedIn: Parth Patel
 --------------------------------------------------------------------------------------------------------------------------------------------------
 📄 License
 MIT License - See LICENSE file for details
